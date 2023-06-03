@@ -22,3 +22,4 @@ def search(nums: List[int], target: int) -> int:
 
         else:
             return -1
+            
