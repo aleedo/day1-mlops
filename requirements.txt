@@ -2,4 +2,4 @@ fastapi==0.95.2
 pydantic==1.10.7
 pytest==7.1.2
 uvicorn[standard]
-pylint
+pylint==2.16.2
